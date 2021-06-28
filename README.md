@@ -10,7 +10,7 @@ There are lots of example files in the repo. Feel free to change or remove them!
 
 
 ## Useful links to get started!
-👀 See a preview of the website: 
+👀 See a preview of the website: https://ayushgupta0110.github.io/Bootstrap-starter-kit/
 
 💻 Check out Bootstrap's documentation: http://getbootstrap.com
 
